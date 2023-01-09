@@ -9,14 +9,6 @@ If you want to learn how to create it please follow below tutorial:
 
 https://youtu.be/tCSaSDgz2Hw
 
-### Images of The Portfolio Website:
-
-
-[![image](https://www.linkpicture.com/q/Adsız_38.png)](https://www.linkpicture.com/view.php?img=LPic6214bfecee5bf241186428)
-
-[![image](https://www.linkpicture.com/q/Adsız2.png)](https://www.linkpicture.com/view.php?img=LPic6214c0159dc821988219740)
-
-
 
 ## Building and running on localhost
 
@@ -31,18 +23,6 @@ To run in hot module reloading mode:
 ```sh
 npm start
 ```
-
-To create a production build:
-
-```sh
-npm run build-prod
-```
-
-## Runningg
-
-Open the file `dist/index.html` in your browser
-
-## Credits
 
 Made with [createapp.dev](https://createapp.dev/)
 
